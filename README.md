@@ -2,31 +2,6 @@
   <img height="150" src="https://media.licdn.com/dms/image/D5616AQG1zBXKTjHOkA/profile-displaybackgroundimage-shrink_350_1400/0/1722853832328?e=1728518400&v=beta&t=uTFSZJdcvjFqtni5CW6ctxb_rW2WRqWbxyqFQBm6iDg"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rivendi-al-isa-nussy-46330a209/" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@risanussy07" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  </a>
-  <a href="mailto:risanussy07@gmail.com" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/nrisa.nu/" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/rivendialisa.nussy/" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCj6akuJHRW5qNJQx2N5icKA/videos" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=risanussy.risanussy&"  />
 </div>
