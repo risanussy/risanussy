@@ -11,6 +11,6 @@
 
 ###
 
-<p align="left">My name Rivendi al isa nussy but better call Risa<br><br>- 🔭 I’m CEO at PT Generasi Digital Nasional<br>- 📚 I'm also mentoring in my academy<br>- <a href="https://www.linkedin.com/in/rivendialisanussy/">Visit my Linkedin</a></p>
+<p align="left">My name Rivendi al isa nussy but better call Risa<br><br>- 🔭 I’m CEO at PT Generasi Digital Nasional<br>- 📚 I'm also mentoring in my academy<br>- 👨‍🚀 <a href="https://www.linkedin.com/in/rivendialisanussy/">Visit my Linkedin</a></p>
 
 ###
